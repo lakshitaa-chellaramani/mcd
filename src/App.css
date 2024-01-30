@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Aeonik';
+    src: url('./utils/fonts/AeonikBold.otf') format('truetype');
+    /* Add additional font weights and styles if needed */
+  }
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+  
+.heading{
+    font-family: 'Aeonik';
+}
